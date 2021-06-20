@@ -1,5 +1,5 @@
 ### 👋 Welcome to my profile!
-Currently studying Computer Engineering, Year 1.   
+Second-year Computer Engineer student.
 Messing around trying to code.   
    
 ![Stats](https://github-readme-stats.vercel.app/api?username=bisaxa&show_icons=true&theme=radical&count_private=true&hide=stars)
